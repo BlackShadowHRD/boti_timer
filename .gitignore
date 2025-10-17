@@ -11,6 +11,7 @@ Thumbs.db
 # Build artifacts / zips
 *.zip
 dist/
+dailyworkflow.txt
 
 # If you keep test worlds alongside the repo (not typical)
 # saves/
