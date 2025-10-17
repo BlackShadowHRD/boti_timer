@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 71
+    },
+    "description": "boti_timer by DocBoti V0.1"
+  },
+  
+  "boti_timer_meta": {
+    "id": "boti_timer",
+    "version": "0.1.0",
+    "authors": ["DocBoti"],
+    "license": "MIT",
+    "homepage": "https://example.com",
+    "source": "https://github.com/you/boti_timer",
+    "issues": "https://github.com/you/boti_timer/issues",
+    "copyright": "© 2025 YourName",
+    "description_long": "Operator-controlled countdown/count-up timer with color presets and toggles."
+  }
+}
